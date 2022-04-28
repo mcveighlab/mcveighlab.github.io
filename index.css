@@ -4,7 +4,7 @@ body {
     background: #f2f6e9;
 }
 .navbar {
-    background: #ebebeb;
+    background: #9B9B9B;
 }
 .nav-link,
 .navbar-brand {
@@ -65,9 +65,9 @@ body {
     border: 1px solid #333;
 }
 header.masthead {
-  padding-top: 10rem;
-  padding-bottom: calc(10rem - 72px);
-  background: url("images/sheep.jpg");
+  padding-top: 20rem;
+  padding-bottom: calc(20rem - 72px);
+  background: url("images/homepage1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
